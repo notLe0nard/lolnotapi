@@ -1,4 +1,9 @@
 {
+    "img":{
+        "admin":"https://github.com/notLe0nard/lolnotapi/blob/main/img/admin.png?raw=true",
+        "mod":"https://github.com/notLe0nard/lolnotapi/blob/main/img/mod.png?raw=true",
+        "founder":"https://github.com/notLe0nard/lolnotapi/blob/main/img/founder.png?raw=true"
+    },
     "admin":[
         "636823070",
         "896702538"
