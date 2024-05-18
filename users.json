@@ -2,7 +2,9 @@
     "img":{
         "admin":"https://github.com/notLe0nard/lolnotapi/blob/main/img/admin.png?raw=true",
         "mod":"https://github.com/notLe0nard/lolnotapi/blob/main/img/mod.png?raw=true",
-        "founder":"https://github.com/notLe0nard/lolnotapi/blob/main/img/founder.png?raw=true"
+        "contibutor": "",
+        "founder":"https://github.com/notLe0nard/lolnotapi/blob/main/img/founder.png?raw=true",
+        "sub": ""
     },
     "admin":[
         "636823070",
@@ -12,10 +14,12 @@
         "648984729",
         "840365435"
     ],
+    "contributor":[
+        "265557682"
+    ],
     "founder":[
-        "480269443",
-        "457674693",
-        "475748597"
+    ],
+    "sub":[
     ],
     "bot":[
         "754201843",
