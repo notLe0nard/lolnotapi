@@ -2,8 +2,8 @@
     "img":{
         "admin":"https://github.com/notLe0nard/lolnotapi/blob/main/img/admin.png?raw=true",
         "mod":"https://github.com/notLe0nard/lolnotapi/blob/main/img/mod.png?raw=true",
-        "contibutor": "https://github.com/lellolidk/lellolidk.github.io/blob/main/img/lolnotContributor.png?raw=true",
-        "founder":"https://github.com/lellolidk/lellolidk.github.io/blob/main/img/lolnotFounder.png?raw=true",
+        "contibutor": "https://lellolidk.de/img/lolnotContributor.png",
+        "founder":"https://lellolidk.de/img/lolnotFounder.png",
         "sub": ""
     },
     "admin":[
